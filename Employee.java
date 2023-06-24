@@ -20,3 +20,4 @@ class Employee
 	     netSalary=gs-it-pt-pf;
 	     System.out.println("Net Salary is="+netSalary);
                    }
+}
